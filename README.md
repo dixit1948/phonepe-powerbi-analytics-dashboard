@@ -67,11 +67,4 @@ Microsoft Power BI Desktop · Power Query · DAX · Microsoft Excel
 2. Open in Power BI Desktop (latest version)
 3. Refresh data if prompted
 
-## 🙏 Acknowledgement
-Dashboard design inspired by the **DataCliq PhonePe Power BI project series** (Parts 1 & 2). Analysis, documentation and insights are my own learning work.
-
-## 👤 Author
-**[Your Name]** – Aspiring Data Analyst
-LinkedIn: [your-link] · GitHub: [your-link]
-
 ⭐ If this helped you, please star the repo!
