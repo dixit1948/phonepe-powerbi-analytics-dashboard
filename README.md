@@ -1,4 +1,4 @@
-# 📱 PhonePe Transaction Analytics Dashboard | Power BI
+# PhonePe Transaction Analytics Dashboard | Power BI
 
 > Interactive Power BI dashboard analysing **300K transactions worth ₹3.47bn** across services, age segments, time and weekday/weekend behaviour.
 
